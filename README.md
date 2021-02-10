@@ -9,7 +9,9 @@ Code for individual components can be found in the Individual_Experiments folder
 A supplementary file with detailed proofs can be found in the Supplementary folder.
 
 Links to the image archives can be found in the ImageResults folder under the individual experiments.
+
 UCI datasets can be obtained from the UCI machine learning dataset repository
+
 The redshift data can be obtained from here : https://www.sdss.org/dr16/data_access/
 You will have to create a Casjob to pull the required data. The range of redshift values is 0 to 7.
 The features selected were: modelMag u’, ’modelMag g’, ’modelMag r’, ’modelMag i’, ’modelMag z’, ’modelMag ug’, ’modelMag gr’, 
